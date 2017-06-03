@@ -7,12 +7,13 @@ An assignment using jQuery to manipulate the DOM
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 1. Download .zip file
-2. Open assignment directory and view .js files
+2. Open index.html in browser
 
 ## Technologies Used
 
 - JavaScript
 - jQuery
+- CSS
 
 ## Assignment instructions I was given:
 
